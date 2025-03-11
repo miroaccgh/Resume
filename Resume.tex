@@ -1,25 +1,63 @@
-\documentclass{article}
+\documentclass[11pt, twoside, a4paper, titlepage]{article}
 
+% credits
+% - https://www.youtube.com/watch?v=-TRcPIPkZz8
+
+% for formatting
+\usepackage[most]{tcolorbox}
+
+% for icons
+\usepackage[width=0.3cm]{svg}
+
+% for links
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+%for media
 \usepackage{graphicx}
 \graphicspath{ {./Media/} }
 
+% for setting margins
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=0.1cm,
+	right=0.1cm,
+	top=0.1cm,
+	bottom=0.1cm
+}
+
+\author{Miro Noordzij}
+\title{Miro Noordzij | Software Engineer}
+
 \begin{document}
 
-\title{Resume}
-\author{Miro Noordzij}
-
-\includegraphics{avatar}
-
-\maketitle
-
-\section{Contact}
-Miro Noordzij Full Stack Software Engineer
-https://www.kaizen.red
-https://www.github.com/miroaccgh
-linkedin.com/in/miro-noordzij-33036918b
-mailto:mironoordzij@outlook.com
-tel:+31 6 53904797
-Rotterdam
+\tcbset{colframe=black, arc=0mm , sharp corners}
+\begin{tcolorbox}[boxsep=0mm, left=0mm, right=0mm, top=0mm, bottom=0mm]
+	\begin{minipage}{6cm}
+		\includegraphics[width=6cm, height=6cm ]{avatar.jpg}
+	\end{minipage}
+	\begin{minipage}{14.8cm}
+		\begin{center}
+			\Huge{Miro Noordzij | Software Developer}
+			\vspace*{0.3cm}\\
+			\small
+			\parbox{14cm}{Software Developer based in Rotterdam with experience in embedded systems and web development. Passionate about technology and committed to continuous learning, always exploring new frameworks, programming languages, and development methodologies such as the mantras of clean code. Outside of work, I enjoy sailing, making music, and staying active at the gym.}
+			\vspace*{0.3cm}\\
+			\includesvg{LinkedIn.svg}
+			\href{https://www.linkedin.com/in/miroaccli}{miroaccli} |
+			\includesvg{GitHub.svg}
+			\href{https://www.github.com/miroaccgh}{miroaccgh} |
+			\includesvg{Website.svg}
+			\href{https://www.kaizen.red}{kaizen.red} \\
+			\includesvg{Email.svg}
+			\href{mailto:mironoordzij@outlook.com}{mironoordzij@outlook.com} |
+			\includesvg{Phone.svg}
+			\href{tel:+31653904797}{+31 6 53904797} |
+			\includesvg{Home.svg}
+			\href{https://g.co/kgs/Ak21VtP}{Rotterdam, The Netherlands}
+		\end{center}
+	\end{minipage}
+\end{tcolorbox}
 
 \section{Skills}
 
@@ -45,9 +83,6 @@ BHV
 \subsubsection{Drivers license}
 Rijbewijs A, Netherlands (In Progress)
 California Class C, USA
-
-\section{Biography}
-Junior Software Developer based in Rotterdam with experience in embedded systems and web development. Passionate about technology and committed to continuous learning, always exploring new frameworks, programming languages, and development methodologies such as the mantras of clean code. Outside of work, I enjoy sailing, making music, and staying active at the gym.
 
 \section{Education}
 \subsection{University of Applied Sciences Rotterdam}
