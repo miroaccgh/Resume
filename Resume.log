@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  11 MAR 2025 19:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/nixos.org) (preloaded format=pdflatex 1980.1.1)  12 MAR 2025 15:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -986,15 +986,15 @@ Package hyperref Info: Link coloring ON on input line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<./Media/avatar.jpg, id=131, 180.675pt x 180.675pt>
+<./Media/avatar.jpg, id=91, 180.675pt x 180.675pt>
 File: ./Media/avatar.jpg Graphic file (type jpg)
 <use ./Media/avatar.jpg>
 Package pdftex.def Info: ./Media/avatar.jpg  used on input line 37.
 (pdftex.def)             Requested size: 170.7167pt x 170.7167pt.
 Package svg Info: Last page of `./svg-inkscape/LinkedIn_svg-tex.pdf' is 1 on in
-put line 46.
+put line 47.
 (./svg-inkscape/LinkedIn_svg-tex.pdf_tex
-<./svg-inkscape/LinkedIn_svg-tex.pdf, id=133, page=1, 337.26pt x 337.26pt>
+<./svg-inkscape/LinkedIn_svg-tex.pdf, id=93, page=1, 337.26pt x 337.26pt>
 File: ./svg-inkscape/LinkedIn_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/LinkedIn_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/LinkedIn_svg-tex.pdf , page1 used on in
@@ -1002,10 +1002,10 @@ put line 56.
 (pdftex.def)             Requested size: 8.5359pt x 8.53233pt.
 )
 Package svg Info: Last page of `./svg-inkscape/GitHub_svg-tex.pdf' is 1 on inpu
-t line 48.
+t line 49.
 
 (./svg-inkscape/GitHub_svg-tex.pdf_tex
-<./svg-inkscape/GitHub_svg-tex.pdf, id=136, page=1, 373.395pt x 364.06572pt>
+<./svg-inkscape/GitHub_svg-tex.pdf, id=96, page=1, 373.395pt x 364.06572pt>
 File: ./svg-inkscape/GitHub_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/GitHub_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/GitHub_svg-tex.pdf , page1 used on inpu
@@ -1013,9 +1013,9 @@ t line 56.
 (pdftex.def)             Requested size: 8.5359pt x 8.32167pt.
 )
 Package svg Info: Last page of `./svg-inkscape/Website_svg-tex.pdf' is 1 on inp
-ut line 50.
+ut line 51.
  (./svg-inkscape/Website_svg-tex.pdf_tex
-<./svg-inkscape/Website_svg-tex.pdf, id=139, page=1, 385.44pt x 385.44pt>
+<./svg-inkscape/Website_svg-tex.pdf, id=99, page=1, 385.44pt x 385.44pt>
 File: ./svg-inkscape/Website_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Website_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Website_svg-tex.pdf , page1 used on inp
@@ -1023,9 +1023,9 @@ ut line 56.
 (pdftex.def)             Requested size: 8.5359pt x 8.53381pt.
 )
 Package svg Info: Last page of `./svg-inkscape/Email_svg-tex.pdf' is 1 on input
- line 52.
+ line 53.
  (./svg-inkscape/Email_svg-tex.pdf_tex
-<./svg-inkscape/Email_svg-tex.pdf, id=142, page=1, 385.44pt x 289.08pt>
+<./svg-inkscape/Email_svg-tex.pdf, id=102, page=1, 385.44pt x 289.08pt>
 File: ./svg-inkscape/Email_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Email_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Email_svg-tex.pdf , page1 used on input
@@ -1033,9 +1033,9 @@ Package pdftex.def Info: ./svg-inkscape/Email_svg-tex.pdf , page1 used on input
 (pdftex.def)             Requested size: 8.5359pt x 6.40036pt.
 )
 Package svg Info: Last page of `./svg-inkscape/Phone_svg-tex.pdf' is 1 on input
- line 54.
+ line 55.
  (./svg-inkscape/Phone_svg-tex.pdf_tex
-<./svg-inkscape/Phone_svg-tex.pdf, id=145, page=1, 385.45694pt x 385.45694pt>
+<./svg-inkscape/Phone_svg-tex.pdf, id=105, page=1, 385.45694pt x 385.45694pt>
 File: ./svg-inkscape/Phone_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Phone_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Phone_svg-tex.pdf , page1 used on input
@@ -1043,75 +1043,114 @@ Package pdftex.def Info: ./svg-inkscape/Phone_svg-tex.pdf , page1 used on input
 (pdftex.def)             Requested size: 8.5359pt x 8.53418pt.
 )
 Package svg Info: Last page of `./svg-inkscape/Home_svg-tex.pdf' is 1 on input 
-line 56.
+line 57.
 (./svg-inkscape/Home_svg-tex.pdf_tex
-<./svg-inkscape/Home_svg-tex.pdf, id=148, page=1, 433.50786pt x 385.51526pt>
+<./svg-inkscape/Home_svg-tex.pdf, id=108, page=1, 433.50786pt x 385.51526pt>
 File: ./svg-inkscape/Home_svg-tex.pdf Graphic file (type pdf)
 <use ./svg-inkscape/Home_svg-tex.pdf, page 1>
 Package pdftex.def Info: ./svg-inkscape/Home_svg-tex.pdf , page1 used on input 
 line 56.
 (pdftex.def)             Requested size: 8.5359pt x 7.5884pt.
 )
-Overfull \hbox (5.27898pt too wide) in paragraph at lines 36--60
+Overfull \hbox (5.27898pt too wide) in paragraph at lines 36--61
 []$[]$ $[]$ 
  []
 
-[1
 
-{/nix/store/f86rjqcm4vbyyxicddz0jimdv98mi88y-texlive-combined-2023/share/texmf-
-var/fonts/map/pdftex/updmap/pdftex.map} <./Media/avatar.jpg> <./svg-inkscape/Li
-nkedIn_svg-tex.pdf> <./svg-inkscape/GitHub_svg-tex.pdf
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+ []\OT1/cmr/bx/n/10.95 Sufficient[]
+ []
 
-pdfTeX warning: /run/current-system/sw/bin/pdflatex (file ./svg-inkscape/GitHub
-_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a singl
-e page
-> <./svg-inkscape/Website_svg-tex.pdf
 
-pdfTeX warning: /run/current-system/sw/bin/pdflatex (file ./svg-inkscape/Websit
-e_svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a sing
-le page
-> <./svg-inkscape/Email_svg-tex.pdf
+Overfull \hbox (2.56082pt too wide) in paragraph at lines 74--75
+[]$ 
+ []
 
-pdfTeX warning: /run/current-system/sw/bin/pdflatex (file ./svg-inkscape/Email_
-svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single
- page
-> <./svg-inkscape/Phone_svg-tex.pdf
 
-pdfTeX warning: /run/current-system/sw/bin/pdflatex (file ./svg-inkscape/Phone_
-svg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single
- page
-> <./svg-inkscape/Home_svg-tex.pdf
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+ []\OT1/cmr/bx/n/10.95 Familiar[]
+ []
 
-pdfTeX warning: /run/current-system/sw/bin/pdflatex (file ./svg-inkscape/Home_s
-vg-tex.pdf): PDF inclusion: multiple pdfs with page group included in a single 
-page
->] [2] (./Resume.aux)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-02-20>
- ***********
-Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 29C2845CC962868E532902B5C292CA68;3148.
- ) 
+
+Overfull \hbox (2.56082pt too wide) in paragraph at lines 76--77
+[]$ 
+ []
+
+
+Overfull \hbox (2.56082pt too wide) in paragraph at lines 78--79
+$[]$ 
+ []
+
+
+Overfull \hbox (2.56082pt too wide) in paragraph at lines 80--81
+$[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+[]\OT1/cmr/bx/n/12 Methodology &
+ []
+
+
+Overfull \hbox (2.56082pt too wide) in paragraph at lines 83--84
+$[]$ 
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 97--100
+\OT1/cmr/m/n/10 Software De-vel-oper, True-Full-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
+\OT1/cmr/m/n/10 Senior Soft-ware De-vel-oper,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
+
+ []
+
+
+Overfull \hbox (2.84518pt too wide) in paragraph at lines 125--129
+[]$
+ []
+
+
+Overfull \hbox (2.84518pt too wide) in paragraph at lines 125--129
+[]$ 
+ []
+
+)
+Runaway argument?
+{ Atlassian • Python • IoT • \par \vspace *{0.3cm} \par \textbf \ETC.
+! File ended while scanning use of \@iiiparbox.
+<inserted text> 
+                \par 
+<*> Resume.tex
+              
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+! Emergency stop.
+<*> Resume.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 27763 strings out of 474116
- 584153 string characters out of 5723056
- 1942187 words of memory out of 5000000
- 49620 multiletter control sequences out of 15000+600000
- 563753 words of font info for 56 fonts, out of 8000000 for 9000
+ 27740 strings out of 474116
+ 583917 string characters out of 5723056
+ 1934187 words of memory out of 5000000
+ 49622 multiletter control sequences out of 15000+600000
+ 565082 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,12n,107p,419b,707s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</nix/store/w1imwlva5kmwsm7gb2blhc8v6c56jbi3-texlive-combined-2023-texmfdist/
-fonts/type1/public/amsfonts/cm/cmbx10.pfb></nix/store/w1imwlva5kmwsm7gb2blhc8v6
-c56jbi3-texlive-combined-2023-texmfdist/fonts/type1/public/amsfonts/cm/cmbx12.p
-fb></nix/store/w1imwlva5kmwsm7gb2blhc8v6c56jbi3-texlive-combined-2023-texmfdist
-/fonts/type1/public/amsfonts/cm/cmr10.pfb></nix/store/w1imwlva5kmwsm7gb2blhc8v6
-c56jbi3-texlive-combined-2023-texmfdist/fonts/type1/public/amsfonts/cm/cmr17.pf
-b>
-Output written on Resume.pdf (2 pages, 214870 bytes).
-PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 162 compressed objects within 2 object streams
- 37 named destinations out of 1000 (max. 500000)
- 398 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 101i,12n,107p,419b,1232s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
